@@ -1,0 +1,7 @@
+# C# specific
+bin/
+obj/
+
+
+# Visual Studio Code settings
+.vscode/
